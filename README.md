@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 <h3>📚 Learning</h3>
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-F24E1E?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-F24E1E?style=flat-square&logo=Java&logoColor=white"/>
 </div>
 
 <h3>☘️ Be going to learn</h3>
