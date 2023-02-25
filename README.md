@@ -57,11 +57,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Java-F24E1E?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 </div>
-<div style="display: flex;">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-</div>
 
 <h3>☘️ Be going to learn</h3>
 <div style="display: flex;">
