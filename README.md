@@ -66,4 +66,3 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
 </div>
 
-<div></div>
